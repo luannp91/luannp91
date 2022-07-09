@@ -6,4 +6,4 @@ I am a student looking for opportunities and collabaration in projects related t
 - 🤝 I’m looking to collaborate on programming projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=luannp91)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luannp91&langs_count=8)](https://github.com/luannp91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luannp91&langs_count=10)](https://github.com/luannp91/github-readme-stats)
